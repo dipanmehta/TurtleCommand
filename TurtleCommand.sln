@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleCommand", "TurtleCommand\TurtleCommand.csproj", "{C7EB7315-2146-444B-8DEC-88749E6ADAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleCommandTest", "TurtleCommandTest\TurtleCommandTest.csproj", "{EE47299F-C499-4B95-9A23-91FFCEAC4F80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EB7315-2146-444B-8DEC-88749E6ADAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EB7315-2146-444B-8DEC-88749E6ADAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EB7315-2146-444B-8DEC-88749E6ADAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EB7315-2146-444B-8DEC-88749E6ADAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE47299F-C499-4B95-9A23-91FFCEAC4F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE47299F-C499-4B95-9A23-91FFCEAC4F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE47299F-C499-4B95-9A23-91FFCEAC4F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE47299F-C499-4B95-9A23-91FFCEAC4F80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
